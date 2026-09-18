@@ -1,6 +1,3 @@
-# sigil
-Local-first API Bug Bounty Assistant
-
 # Sigil
 
 A local-first, terminal-based pentest assistant — built for zero-exfil operation during active hunts.
